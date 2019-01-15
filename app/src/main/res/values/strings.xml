@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TruthOrDare</string>
+    <string name="spin">SPIN</string>
+    <string name="bottle">Bottle Image</string>
 </resources>
